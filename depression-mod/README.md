@@ -49,10 +49,10 @@
 - `/depression set <0..2400>` — задать значение
 
 ## Сборка
-Нужны JDK 17+ и Gradle (или Gradle wrapper):
+Нужен JDK 17+ (Gradle подтянется сам через wrapper, версия 8.14.3):
 
 ```
-gradle build
+./gradlew build
 ```
 
 Готовый мод: `build/libs/depression-1.1.0.jar`. Положи его в папку `mods` вместе с Fabric Loader и Fabric API 0.92.2+1.20.1. Мод нужен и на сервере, и на клиенте.

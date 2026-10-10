@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "depression",
+  "version": "${version}",
+  "name": "Depression",
+  "description": "Шкала депрессии: копится от одиночества, темноты и недосыпа, давит на атмосферу и геймплей, снимается уютом, заботой и сном. Долгое спокойствие даёт «Радость».",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.depression.DepressionMod"],
+    "client": ["com.example.depression.client.DepressionClient"]
+  },
+  "mixins": ["depression.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

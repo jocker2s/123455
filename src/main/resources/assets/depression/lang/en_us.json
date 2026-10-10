@@ -1,0 +1,34 @@
+{
+  "effect.depression.depression": "Depression",
+  "effect.depression.joy": "Joy",
+  "item.depression.diary": "Diary",
+  "item.depression.diary.tooltip": "Write down your thoughts once a day",
+  "subtitles.depression.heartbeat": "Muffled heartbeat",
+  "subtitles.depression.whisper": "Distant whispering",
+
+  "message.depression.worse.1": "Something feels heavy...",
+  "message.depression.worse.2": "Nothing feels good. You wish someone were here.",
+  "message.depression.worse.3": "Everything feels pointless. Find people, light, rest.",
+  "message.depression.better.0": "You feel a little lighter.",
+  "message.depression.better.1": "Breathing gets easier.",
+  "message.depression.better.2": "The clouds are slowly parting.",
+
+  "message.depression.insomnia": "You can't fall asleep...",
+  "message.depression.diary.written": "You write everything down. It gets a little easier.",
+  "message.depression.diary.done": "You've already written today.",
+  "message.depression.gift.given": "You gave a flower to %s. You both feel warmer.",
+  "message.depression.gift.received": "%s gave you a flower. You both feel warmer.",
+
+  "thought.depression.1": "Why bother with all this?",
+  "thought.depression.2": "Everyone left long ago.",
+  "thought.depression.3": "What's the point?",
+  "thought.depression.4": "No one will notice.",
+  "thought.depression.5": "So quiet here...",
+  "thought.depression.6": "I'm so tired.",
+  "thought.depression.7": "It won't get any better.",
+  "thought.depression.8": "Why am I even here?",
+  "thought.depression.9": "Nobody is waiting for me.",
+  "thought.depression.10": "Everything is gray.",
+  "thought.depression.11": "I don't want to do anything.",
+  "thought.depression.12": "Was it always this empty?"
+}

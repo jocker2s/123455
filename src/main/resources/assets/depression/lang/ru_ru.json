@@ -1,0 +1,34 @@
+{
+  "effect.depression.depression": "Депрессия",
+  "effect.depression.joy": "Радость",
+  "item.depression.diary": "Дневник",
+  "item.depression.diary.tooltip": "Записывай мысли раз в сутки",
+  "subtitles.depression.heartbeat": "Приглушённое сердцебиение",
+  "subtitles.depression.whisper": "Далёкий шёпот",
+
+  "message.depression.worse.1": "Что-то на душе тяжело...",
+  "message.depression.worse.2": "Ничего не радует. Хочется, чтобы кто-нибудь был рядом.",
+  "message.depression.worse.3": "Всё кажется бессмысленным. Найди людей, свет, отдых.",
+  "message.depression.better.0": "Стало немного легче.",
+  "message.depression.better.1": "Дышать становится легче.",
+  "message.depression.better.2": "Тучи понемногу расходятся.",
+
+  "message.depression.insomnia": "Никак не получается уснуть...",
+  "message.depression.diary.written": "Ты записываешь всё, что накопилось. Становится чуть легче.",
+  "message.depression.diary.done": "Сегодня ты уже писал в дневник.",
+  "message.depression.gift.given": "Ты подарил цветок игроку %s. Вам обоим теплее.",
+  "message.depression.gift.received": "%s подарил тебе цветок. Вам обоим теплее.",
+
+  "thought.depression.1": "Зачем всё это?",
+  "thought.depression.2": "Все давно ушли.",
+  "thought.depression.3": "Какой в этом смысл?",
+  "thought.depression.4": "Никто и не заметит.",
+  "thought.depression.5": "Как тут тихо...",
+  "thought.depression.6": "Так устал.",
+  "thought.depression.7": "Лучше уже не будет.",
+  "thought.depression.8": "Что я вообще здесь делаю?",
+  "thought.depression.9": "Меня никто не ждёт.",
+  "thought.depression.10": "Всё серое.",
+  "thought.depression.11": "Ничего не хочется.",
+  "thought.depression.12": "Здесь всегда было так пусто?"
+}

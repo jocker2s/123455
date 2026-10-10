@@ -1,0 +1,7 @@
+{
+  "heartbeat": { "sounds": ["depression:heartbeat"], "subtitle": "subtitles.depression.heartbeat" },
+  "whisper": {
+    "sounds": ["depression:whisper1", "depression:whisper2", "depression:whisper3"],
+    "subtitle": "subtitles.depression.whisper"
+  }
+}
